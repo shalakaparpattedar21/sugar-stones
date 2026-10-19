@@ -1,2 +1,31 @@
-import { Link } from 'react-router-dom'; import { useCart } from '../context/CartContext'; import { useWishlist } from '../context/WishlistContext';
-export default function ProductCard({product}){const {addToCart,buyNow}=useCart();const {toggleWishlist,isWishlisted}=useWishlist();return <div className="product-card reveal visible"><div className="product-card__image-wrap"><Link to={`/product/${product.id}`}><img src={`/${product.images[0]}`} alt={product.name} loading="lazy"/></Link>{product.featured&&<span className="product-card__badge">Featured</span>}<button className={`wishlist-heart ${isWishlisted(product.id)?'saved':''}`} onClick={()=>toggleWishlist(product)} aria-label="Add to wishlist">{isWishlisted(product.id)?'♥':'♡'}</button></div><div className="product-card__body"><span className="product-card__collection">{product.collection}</span><Link to={`/product/${product.id}`} className="product-card__name">{product.name}</Link><div className="product-card__price">₹{product.price.toLocaleString('en-IN')}</div><div className="product-card__actions"><button className="btn btn--gold btn--small" onClick={()=>{buyNow(product);location.href='/checkout'}}>Buy Now</button><button className="btn btn--ghost btn--small" onClick={()=>addToCart(product)}>+ Bag</button></div></div></div>}
+import { Link } from 'react-router-dom';
+import { useCart } from '../context/CartContext';
+import { useWishlist } from '../context/WishlistContext';
+
+export default function ProductCard({ product }) {
+  const { addToCart, buyNow } = useCart();
+  const { toggleWishlist, isWishlisted } = useWishlist();
+
+  return (
+    <div className="product-card reveal visible">
+      <div className="product-card__image-wrap">
+        <Link to={`/product/${product.id}`}>
+          <img src={`/${product.images[0]}`} alt={product.name} loading="lazy" />
+        </Link>
+        {product.featured && <span className="product-card__badge">Featured</span>}
+        <button className={`wishlist-heart ${isWishlisted(product.id) ? 'saved' : ''}`} onClick={() => toggleWishlist(product)} aria-label="Add to wishlist">
+          {isWishlisted(product.id) ? '♥' : '♡'}
+        </button>
+      </div>
+      <div className="product-card__body">
+        <span className="product-card__collection">{product.collection}</span>
+        <Link to={`/product/${product.id}`} className="product-card__name">{product.name}</Link>
+        <div className="product-card__price">₹{product.price.toLocaleString('en-IN')}</div>
+        <div className="product-card__actions">
+          <button className="btn btn--gold btn--small" onClick={() => { buyNow(product); location.href = '/checkout'; }}>Buy Now</button>
+          <button className="btn btn--ghost btn--small" onClick={() => addToCart(product)}>+ Bag</button>
+        </div>
+      </div>
+    </div>
+  );
+}
