@@ -1,0 +1,769 @@
+[
+  {
+    "id": "ss-001",
+    "code": "WA0040",
+    "name": "Aarna Kundan Choker Set",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 520,
+    "description": "A stunning kundan choker with a braided pearl string and a floral centrepiece with delicate green meena work. The circular pendant is surrounded by marquise kundan stones, paired with matching oval kundan earrings.",
+    "material": "Gold-plated brass, polki-style kundan stones, freshwater pearls, meena enamel",
+    "care": "Store in a soft pouch away from moisture. Avoid contact with perfume and water.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/IMG-20260628-WA0040.jpg"
+    ]
+  },
+  {
+    "id": "ss-002",
+    "code": "WA0039",
+    "name": "Vandana Kundan Pendant Set",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 565,
+    "description": "A double-row kundan necklace with polished oval stones and a statement teardrop pendant. A green stone accent at the centre adds a refined colour contrast. Comes with elegant drop earrings.",
+    "material": "Gold-plated brass, polki-style kundan, meena green accent stone",
+    "care": "Store in the box provided. Avoid contact with water, sweat, and harsh chemicals.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/IMG-20260628-WA0039.jpg"
+    ]
+  },
+  {
+    "id": "ss-003",
+    "code": "WA0038",
+    "name": "Maharani Kundan Necklace Set",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A regal full-coverage kundan necklace with multiple rows of hand-set teardrop and oval polki stones. The layered neckline flows to a V-drop, creating an heirloom presence. Matched with elaborate drop earrings.",
+    "material": "Gold-plated brass, polki-style kundan stones",
+    "care": "Store in a soft cloth pouch. Avoid moisture. Do not immerse in water.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0038.jpg"
+    ]
+  },
+  {
+    "id": "ss-004",
+    "code": "WA0037",
+    "name": "Noor Meena Kundan Set",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 940,
+    "description": "A breathtaking kundan necklace with vivid green meena enamel work and a pearl drop finish. The elongated pendant and matching earrings are adorned with polki kundan stones set in emerald green.",
+    "material": "Gold-plated brass, polki kundan, green meena enamel, freshwater pearl drops",
+    "care": "Handle gently. Store in box away from direct sunlight. Clean with dry cloth only.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0037.jpg"
+    ]
+  },
+  {
+    "id": "ss-005",
+    "code": "WA0036",
+    "name": "Panna Kundan Long Set",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 565,
+    "description": "A long kundan necklace with dense oval polki stones set against green and ruby meena work. The circular pendant with cascading pearl drops is complemented by matching fan-shaped earrings with ruby and pearl drops.",
+    "material": "Gold-plated brass, polki kundan, meena enamel, freshwater pearl drops",
+    "care": "Avoid water and perfume. Store in a dry place in the original pouch.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0035.jpg",
+      "assets/images/IMG-20260628-WA0036.jpg"
+    ]
+  },
+  {
+    "id": "ss-007",
+    "code": "WA0034",
+    "name": "Sitara Ruby Pearl Rani Haar",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 940,
+    "description": "A majestic multi-strand pearl rani haar interspersed with ruby and kundan accent pieces. The grand double circular ruby pendant with kundan inlay cascades beautifully. Paired with matching oval ruby kundan earrings.",
+    "material": "Gold-plated brass, freshwater pearls, polki kundan, ruby-coloured stones",
+    "care": "Store with care in the original box. Avoid exposure to chemicals and water.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/IMG-20260628-WA0034.jpg"
+    ]
+  },
+  {
+    "id": "ss-008",
+    "code": "WA0033",
+    "name": "Heritage Ruby Pearl Strand",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 940,
+    "description": "A seven-strand pearl necklace with a grand ruby and kundan circular pendant. The cascading pearl strands are interspersed with ruby-red accents, leading to an ornate medallion centrepiece — a true bridal heirloom.",
+    "material": "Gold-plated brass, freshwater pearls, polki kundan, ruby-coloured stones",
+    "care": "Store with care in the original box. Avoid exposure to chemicals and water.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/IMG-20260628-WA0033.jpg"
+    ]
+  },
+  {
+    "id": "ss-009",
+    "code": "WA0024",
+    "name": "Lumière Crystal Drop Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A silver-toned CZ necklace with large cushion-cut stones in a leaf-motif chain, featuring a grand pear-shaped pendant. The earrings mirror the pendant with a square top and pear drop. Exceptionally glamorous.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Store in the box provided. Clean with a soft dry cloth. Avoid water and perfume.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0024.jpg"
+    ]
+  },
+  {
+    "id": "ss-010",
+    "code": "WA0032",
+    "name": "Crystal Bloom Necklace Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A delicate silver-toned necklace with petal-shaped CZ clusters forming a continuous daisy chain. The matching stud earrings echo the floral motif — light, sparkly and perfect for a cocktail evening.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Keep away from water and cosmetics. Store in a dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0032.jpg"
+    ]
+  },
+  {
+    "id": "ss-011",
+    "code": "WA0030",
+    "name": "Golden Bloom Necklace Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A gold-toned version of the daisy chain necklace — clusters of petal-shaped CZ stones in warm gold catching the light beautifully. Paired with floral stud earrings that add a sunlit finish to any outfit.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Avoid contact with water, sweat, and perfume. Store in a cool dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0030.jpg"
+    ]
+  },
+  {
+    "id": "ss-012",
+    "code": "WA0025",
+    "name": "Empress CZ Necklace Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A silver-toned necklace with chevron-cut pear stones along the chain leading to a grand emerald-cut centre pendant with a teardrop drop. The matching earrings feature a rectangular baguette with pear drop — pure elegance.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia, baguette stones",
+    "care": "Store in box. Avoid water. Clean with a soft dry cloth.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0025.jpg"
+    ]
+  },
+  {
+    "id": "ss-013",
+    "code": "WA0026",
+    "name": "Golden Empress CZ Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "The gold-toned version of the Empress necklace — a chevron pear-stone chain with an emerald-cut centre pendant and pear drop, all in warm gold. The matching earrings are equally statement-making.",
+    "material": "Gold-plated brass, AAA cubic zirconia, baguette stones",
+    "care": "Store in box. Avoid water. Clean with a soft dry cloth.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0026.jpg"
+    ]
+  },
+  {
+    "id": "ss-014",
+    "code": "WA0028",
+    "name": "Cascade Teardrop Necklace Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A gold-toned necklace with teardrop and floral link stations leading to a grand concentric teardrop pendant. The earrings feature a flower stud with an elongated double teardrop drop — dramatic and luxurious.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Avoid water and perfume. Store in a dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0028.jpg"
+    ]
+  },
+  {
+    "id": "ss-015",
+    "code": "WA0029",
+    "name": "Silver Cascade Teardrop Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "The silver-toned version of the Cascade set — teardrop and floral link stations with a concentric teardrop pendant in rhodium finish. The matching long earrings complete the look with graceful drama.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Avoid water and perfume. Store in a dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0029.jpg"
+    ]
+  },
+  {
+    "id": "ss-016",
+    "code": "WA0031",
+    "name": "Celestia Emerald-Cut Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A silver-toned necklace with snowflake and oval-link stations leading to a large emerald-cut double-pendant. The matching earrings feature a snowflake stud with an emerald-cut drop — bold and wearable.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Store in box. Clean with dry cloth. Avoid water.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0031.jpg"
+    ]
+  },
+  {
+    "id": "ss-017",
+    "code": "WA0027",
+    "name": "Golden Celestia Long Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "A gold-toned long necklace with snowflake and eye-shaped link stations leading to a grand double emerald-cut pendant. The shorter earrings echo the design — an elevated look for grand evenings.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Store in box. Clean with dry cloth. Avoid water.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0027.jpg"
+    ]
+  },
+  {
+    "id": "ss-018",
+    "code": "WA0023",
+    "name": "Aurora Crystal Necklace Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 750,
+    "description": "An opulent CZ necklace with large cushion-cut stones set in gold, connected by a leaf-motif chain. The teardrop pendant and matching leaf-and-drop earrings catch the light magnificently.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Store in the box provided. Clean with a soft dry cloth. Avoid water and perfume.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/IMG-20260628-WA0023.jpg"
+    ]
+  },
+  {
+    "id": "ss-019",
+    "code": "WA0022",
+    "name": "Versailles CZ Necklace Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 600,
+    "description": "A gold-toned necklace with a delicate pear-stone chain and a flower-and-emerald-cut pendant with halo setting. The matching long earrings feature a fan-shaped cluster with emerald-cut drop — made for evenings.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Keep away from water and cosmetics. Store in a dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0022.jpg"
+    ]
+  },
+  {
+    "id": "ss-020",
+    "code": "WA0021",
+    "name": "Silver Versailles Necklace Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 600,
+    "description": "The silver-toned version of the Versailles necklace — a delicate pear-stone chain with a flower-and-emerald-cut pendant. The long earrings mirror the design with a lighter, bridal feel.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Keep away from water and cosmetics. Store in a dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0021.jpg"
+    ]
+  },
+  {
+    "id": "ss-021",
+    "code": "WA0019",
+    "name": "Moonrise Crystal Drop Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 600,
+    "description": "A delicate silver-toned CZ necklace with pear-shaped stones cascading along the chain to a brilliant teardrop pendant. The matching earrings have a graceful two-drop silhouette — perfect for cocktail evenings.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Keep away from water and cosmetics. Store in a dry place. Polish with a soft cloth.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0019.jpg"
+    ]
+  },
+  {
+    "id": "ss-022",
+    "code": "WA0020",
+    "name": "Golden Moonrise Drop Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 600,
+    "description": "The gold-toned version of the Moonrise necklace — pear-stone chain with a large teardrop pendant in warm gold. The stud earrings with a simple drop finish complete this versatile, glam look.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Keep away from water and cosmetics. Store in a dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0020.jpg"
+    ]
+  },
+  {
+    "id": "ss-023",
+    "code": "WA0018",
+    "name": "Silver Sunburst CZ Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 630,
+    "description": "A silver-toned necklace with radiant sunburst stations, each centred with a large oval CZ stone surrounded by micro-pave detailing. The matching drop earrings feature a rectangular baguette top with a starburst drop.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Avoid contact with water, sweat, and perfume. Store in a cool dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0018.jpg"
+    ]
+  },
+  {
+    "id": "ss-024",
+    "code": "WA0015",
+    "name": "Sunburst CZ Statement Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 630,
+    "description": "A bold gold-toned necklace with radiant sunburst stations, each centred with a large oval CZ stone. The matching drop earrings feature a rectangular baguette top with a starburst drop — glamorous and wearable.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Avoid contact with water, sweat, and perfume. Store in a cool dry place.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0015.jpg"
+    ]
+  },
+  {
+    "id": "ss-025",
+    "code": "WA0017",
+    "name": "Silver Halo Circle Set",
+    "collection": "Everyday Elegance",
+    "category": "Necklace Sets",
+    "price": 630,
+    "description": "A minimalist silver necklace with uniformly spaced round CZ stones in individual halo settings, creating a clean, contemporary look. The matching triple-circle drop earrings are effortlessly wearable day to night.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones",
+    "care": "Avoid water. Store in a dry place. Wipe with a soft cloth after use.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0017.jpg"
+    ]
+  },
+  {
+    "id": "ss-026",
+    "code": "WA0016",
+    "name": "Golden Halo Circle Set",
+    "collection": "Everyday Elegance",
+    "category": "Necklace Sets",
+    "price": 630,
+    "description": "The gold-toned Halo necklace — round CZ stones in individual halo settings in a warm gold chain. Perfect for office and daily wear. The matching stud-style earrings keep the look refined and understated.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones",
+    "care": "Avoid water. Store in a dry place. Wipe with a soft cloth after use.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0016.jpg"
+    ]
+  },
+  {
+    "id": "ss-027",
+    "code": "WA0014",
+    "name": "Silver Princess CZ Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 875,
+    "description": "A spectacular silver-toned CZ necklace with emerald-cut baguette stations and a grand square princess-cut pendant with a floral accent and micro-pave frame. The earrings echo the pendant perfectly.",
+    "material": "Rhodium-plated brass, AAA cubic zirconia stones, micro-pave setting",
+    "care": "Clean with a soft dry cloth. Store in the box. Avoid water exposure.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0014.jpg"
+    ]
+  },
+  {
+    "id": "ss-028",
+    "code": "WA0013",
+    "name": "Regal Diamond-Look Set",
+    "collection": "Party Wear",
+    "category": "Necklace Sets",
+    "price": 875,
+    "description": "A spectacular diamond-look necklace with emerald-cut CZ stations and a magnificent rectangular pendant framed in micro-pave gold. The earrings echo the pendant with a floral stud and baguette drop — designed to dazzle.",
+    "material": "Gold-plated brass, AAA cubic zirconia stones, micro-pave setting",
+    "care": "Clean with a soft dry cloth. Store in the box. Avoid water exposure.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/IMG-20260628-WA0013.jpg"
+    ]
+  },
+  {
+    "id": "ss-029",
+    "code": "WA0012",
+    "name": "Lattice Leaf Bangle",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "An art-deco inspired bangle with open lattice-work adorned with leaf and marquise stone detailing. The geometric cutout design gives it an airy elegance that pairs effortlessly with both Indian and western outfits.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "Anti-tarnish coating ensures lasting shine. Keep away from water and perfume.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0012.jpg"
+    ]
+  },
+  {
+    "id": "ss-030",
+    "code": "WA0001",
+    "name": "Golden Wave Cuff",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A sculptural gold-tone cuff with flowing wave channels encrusted with sparkling white stones. This anti-tarnish piece makes a bold yet refined statement on the wrist. Adjustable design fits most wrist sizes.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "This piece is anti-tarnish. Avoid soaking in water. Wipe clean with a soft cloth.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/IMG-20260628-WA0001.jpg"
+    ]
+  },
+  {
+    "id": "ss-031",
+    "code": "WA0002",
+    "name": "Lace Stone Bangle",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A refined gold bangle with a central band of delicate lace-patterned CZ stones in a floral arrangement. Classic and understated, this piece transitions seamlessly from day to evening wear.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "Anti-tarnish. Keep away from water and perfume. Wipe after use.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0002.jpg"
+    ]
+  },
+  {
+    "id": "ss-032",
+    "code": "WA0003",
+    "name": "Baguette Arc Bracelet",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A sleek gold bangle with a curved arc of emerald-cut baguette stones at the centre, flanked by a row of brilliant round CZ stones. Minimal, modern and impeccably finished.",
+    "material": "Anti-tarnish gold-plated brass, baguette CZ, round CZ stones",
+    "care": "Anti-tarnish coating. Avoid water and chemicals. Wipe with a soft cloth.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0003.jpg"
+    ]
+  },
+  {
+    "id": "ss-033",
+    "code": "WA0004",
+    "name": "Starburst Kada",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A wide gold kada covered in a repeating starburst motif, each star centred with a tiny sparkly stone. Bold and statement-making, yet light enough for everyday wear.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "Anti-tarnish. Keep away from water and perfume. Wipe after use.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0004.jpg"
+    ]
+  },
+  {
+    "id": "ss-034",
+    "code": "WA0005",
+    "name": "Twin Solitaire Bracelet",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A sleek open-cuff bracelet with two large round solitaire CZ stations, each surrounded by a halo of baguette stones. Glamorous and modern — ideal for parties and celebrations.",
+    "material": "Anti-tarnish gold-plated brass, round and baguette CZ stones",
+    "care": "Anti-tarnish. Avoid water. Wipe with soft cloth after use.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0005.jpg"
+    ]
+  },
+  {
+    "id": "ss-035",
+    "code": "WA0006",
+    "name": "Floral Twist Bracelet",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A delicate open-cuff bracelet with a twisted gold band and a central floral CZ cluster. Light, feminine and versatile — pairs beautifully with both casual and dressy outfits.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "Anti-tarnish. Keep away from water and perfume.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0006.jpg"
+    ]
+  },
+  {
+    "id": "ss-036",
+    "code": "WA0007",
+    "name": "Diamond-Pattern 1gm Gold Kada",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A premium 1gm gold kada with an intricate diamond-weave pattern across the front panel. Clean, classic and completely in the spirit of traditional gold jewellery at an accessible price.",
+    "material": "1gm gold-plated brass, premium finish",
+    "care": "Keep away from water and chemicals. Store in a dry soft pouch.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0007.jpg"
+    ]
+  },
+  {
+    "id": "ss-037",
+    "code": "WA0008",
+    "name": "Teardrop Bypass Bracelet",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A modern bypass bangle in gold with a pear-shaped CZ focal stone set at the centre, surrounded by a micro-pave halo. The sleek band features a half-pave detail on one arm for added sparkle.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "Anti-tarnish. Avoid water. Wipe with soft cloth.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0008.jpg"
+    ]
+  },
+  {
+    "id": "ss-038",
+    "code": "WA0009",
+    "name": "Pave Block Bangle",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A structured gold bangle featuring three pave-set CZ block panels connected by clean gold channels. The geometric design makes it a versatile piece that looks elegant with both Indian and western wear.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "Anti-tarnish coating. Avoid water and chemicals. Wipe with a soft cloth.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0009.jpg"
+    ]
+  },
+  {
+    "id": "ss-039",
+    "code": "WA0011",
+    "name": "Honeycomb Cuff Kada",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 400,
+    "description": "A wide, bold gold kada featuring a textured honeycomb pattern across the entire surface, with a central rectangular frame highlighted by CZ stones. A statement piece with an architectural feel.",
+    "material": "Anti-tarnish gold-plated brass, cubic zirconia stones",
+    "care": "Anti-tarnish. Avoid water and perfume. Wipe after use.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/IMG-20260628-WA0011.jpg"
+    ]
+  },
+  {
+    "id": "ss-040",
+    "code": "DMT87",
+    "name": "Pearl Kundan Haar Set",
+    "collection": "Wedding Collection",
+    "category": "Necklace Sets",
+    "price": 300,
+    "description": "A timeless multi-strand pearl necklace adorned with a kundan and ruby pendant. Cascading layers of lustrous pearls frame a richly detailed centrepiece with marquise and ruby stones. Comes with matching stud earrings.",
+    "material": "Gold-plated brass, freshwater pearls, kundan stones, ruby-coloured stones",
+    "care": "Store in a soft pouch away from moisture. Avoid contact with perfume and water.",
+    "availability": "Available",
+    "featured": true,
+    "images": [
+      "assets/images/dmt87-1.jpg",
+      "assets/images/dmt87-2.jpg",
+      "assets/images/dmt87-3.jpg",
+      "assets/images/dmt87-4.jpg"
+    ]
+  },
+  {
+    "id": "ss-044",
+    "code": "DMT90",
+    "name": "Golden Lattice Necklace Set",
+    "collection": "Everyday Elegance",
+    "category": "Necklace Sets",
+    "price": 365,
+    "description": "A bold geometric necklace featuring interlocking lattice-work squares encrusted with fine stones. Each panel is individually set with sparkling zircons, connected by golden orbs. Paired with matching drop earrings.",
+    "material": "Gold-plated brass, cubic zirconia stones",
+    "care": "Store in a cool dry place. Avoid exposure to water and chemicals.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/dmt90-2.jpg",
+      "assets/images/dmt90-1.jpeg",
+      "assets/images/dmt90-3.jpg",
+      "assets/images/dmt90-4.jpg"
+    ]
+  },
+  {
+    "id": "ss-045",
+    "code": "SS0041",
+    "name": "Aisha Butterfly Bracelet Watch",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 450,
+    "description": "A dainty gold-tone cuff watch with a crystal-studded teardrop dial and a sparkling butterfly accent on an open bangle. A pretty, wearable statement for parties and everyday shine alike.",
+    "material": "Gold-plated alloy, crystal stones, quartz movement",
+    "care": "Keep away from water and perfume. Wipe gently with a soft dry cloth.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/ss-045-1.jpg"
+    ]
+  },
+  {
+    "id": "ss-046",
+    "code": "SS0042",
+    "name": "Naina Serpent Bracelet Watch",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 650,
+    "description": "A bold serpent-style cuff watch with a baguette-stone body and pave crystal detailing that wraps the wrist. Available in several stone colours, red, green, pink and clear, so you can match it to any look.",
+    "material": "Gold-plated alloy, baguette crystal stones, quartz movement",
+    "care": "Keep away from water and perfume. Store in the box provided when not worn.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/ss-046-1.jpg",
+      "assets/images/ss-046-2.jpg",
+      "assets/images/ss-046-3.jpg",
+      "assets/images/ss-046-4.jpg",
+      "assets/images/ss-046-5.jpg",
+      "assets/images/ss-046-6.jpg"
+    ]
+  },
+  {
+    "id": "ss-047",
+    "code": "SS0047",
+    "name": "Meher Serpent Coil Watch",
+    "collection": "Bracelets",
+    "category": "Bracelets",
+    "price": 600,
+    "description": "A sleek serpent-coil cuff watch in polished gold-tone, wrapping the wrist in smooth ribbed links with a crystal-framed dial. Available in five dial colours, white, green, gold, black and red, so there is a shade for every mood and outfit.",
+    "material": "Gold-plated alloy, crystal stones, quartz movement",
+    "care": "Keep away from water and perfume. Store in the box provided when not worn.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/ss-047-1.jpg",
+      "assets/images/ss-047-2.jpg",
+      "assets/images/ss-047-3.jpg",
+      "assets/images/ss-047-4.jpg",
+      "assets/images/ss-047-5.jpg"
+    ]
+  },
+  {
+    "id": "ss-048",
+    "code": "SS048",
+    "name": "Zoya Antique Jhumka Earrings",
+    "collection": "Earrings",
+    "category": "Earrings",
+    "price": 400,
+    "description": "Antique gold-tone jhumka earrings with a detailed round stud, delicate chain tassels and pearl drops. A graceful traditional pair for weddings, festivals and party looks.",
+    "material": "Gold-plated alloy, kundan-style stones, faux pearls",
+    "care": "Store in a soft pouch away from moisture. Avoid contact with perfume and water.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/ss-048-1.jpg",
+      "assets/images/ss-048-2.jpg",
+      "assets/images/ss-048-3.jpg",
+      "assets/images/ss-048-4.jpg",
+      "assets/images/ss-048-5.jpg",
+      "assets/images/ss-048-6.jpg"
+    ]
+  },
+  {
+    "id": "ss-049",
+    "code": "SS049",
+    "name": "Ira Temple Drop Earrings",
+    "collection": "Earrings",
+    "category": "Earrings",
+    "price": 360,
+    "description": "Gold-tone temple-style drop earrings with a green stone centre and cascading gold bead tassels. Lightweight and elegant, perfect with ethnic outfits.",
+    "material": "Gold-plated alloy, kundan-style stones, faux pearls",
+    "care": "Store in a soft pouch away from moisture. Avoid contact with perfume and water.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/ss-049-1.jpg",
+      "assets/images/ss-049-2.jpg",
+      "assets/images/ss-049-3.jpg",
+      "assets/images/ss-049-4.jpg",
+      "assets/images/ss-049-5.jpg",
+      "assets/images/ss-049-6.jpg"
+    ]
+  },
+  {
+    "id": "ss-050",
+    "code": "SS050",
+    "name": "Sana Chandelier Jhumka Earrings",
+    "collection": "Earrings",
+    "category": "Earrings",
+    "price": 380,
+    "description": "Statement chandelier jhumka earrings in antique gold-tone, with chain tassels and pearl-finished jhumka drops. A festive pair that dresses up any celebration look.",
+    "material": "Gold-plated alloy, kundan-style stones, faux pearls",
+    "care": "Store in a soft pouch away from moisture. Avoid contact with perfume and water.",
+    "availability": "Available",
+    "featured": false,
+    "images": [
+      "assets/images/ss-050-1.jpg",
+      "assets/images/ss-050-2.jpg",
+      "assets/images/ss-050-3.jpg",
+      "assets/images/ss-050-4.jpg",
+      "assets/images/ss-050-5.jpg",
+      "assets/images/ss-050-6.jpg"
+    ]
+  }
+]

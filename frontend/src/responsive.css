@@ -1,0 +1,109 @@
+/* ============================================================
+   Sugar & Stones — Responsive Styles
+   Mobile-first, breakpoints: 768px, 1024px, 1280px
+   ============================================================ */
+
+/* ── Tablet ──────────────────────────────────────────────── */
+
+@media (max-width: 1024px) {
+
+  .footer__grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+  }
+
+  .footer__brand {
+    grid-column: 1 / -1;
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.25rem;
+  }
+}
+
+/* ── Mobile ──────────────────────────────────────────────── */
+
+@media (max-width: 768px) {
+
+  :root {
+    --space-xl: 4.5rem;
+    --space-lg: 3rem;
+  }
+
+  /* Nav */
+  .nav {
+    padding: 1.25rem 1.5rem;
+  }
+
+  .nav.scrolled {
+    padding: 1rem 1.5rem;
+  }
+
+  .nav__links {
+    display: none;
+  }
+
+  .nav__hamburger {
+    display: flex;
+  }
+
+  /* Container */
+  .container {
+    padding: 0 1.5rem;
+  }
+
+  /* Product Grid */
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .product-card__body {
+    padding: 1rem 1rem 1.25rem;
+  }
+
+  .product-card__name {
+    font-size: 1rem;
+  }
+
+  .product-card__actions {
+    flex-direction: column;
+  }
+
+  /* Enquiry Bag */
+  .bag-drawer {
+    width: 100%;
+    right: -100%;
+  }
+
+  /* Footer */
+  .footer__grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .footer__bottom {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
+
+  /* Page hero */
+  .page-hero {
+    padding: 8rem 0 3.5rem;
+  }
+
+  /* Section */
+  .section__header {
+    margin-bottom: 2.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  h1 { font-size: 2.8rem; }
+}
