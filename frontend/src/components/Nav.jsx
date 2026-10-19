@@ -1,2 +1,77 @@
-import { Link, NavLink } from 'react-router-dom'; import { useState } from 'react'; import { useCart } from '../context/CartContext'; import { useWishlist } from '../context/WishlistContext'; import { useAuth } from '../context/AuthContext';
-export default function Nav(){const {itemCount}=useCart();const {count}=useWishlist();const {user}=useAuth();const [open,setOpen]=useState(false);const links=[['/','Home'],['/shop','Shop'],['/about','Our Story'],['/contact','Contact']];return <><nav className="nav"><Link to="/" className="nav__logo"><img src="/assets/images/logo-mark.png" alt="Sugar & Stones Jewelry" className="nav__logo-img"/></Link><ul className="nav__links">{links.map(([to,label])=><li key={to}><NavLink to={to} className={({isActive})=>isActive?'active':''}>{label}</NavLink></li>)}</ul><div className="nav__actions"><Link to="/wishlist" className="nav__icon-link" aria-label="Wishlist">♡<span className={`nav__mini-count ${count?'visible':''}`}>{count}</span></Link><Link to={user?'/account':'/login'} className="nav__icon-link" aria-label="Account">♙</Link><Link to="/cart" className="nav__bag-btn">Bag <span className={`nav__bag-count ${itemCount?'visible':''}`}>{itemCount}</span></Link><button className="nav__hamburger" aria-label="Open menu" onClick={()=>setOpen(true)}><span></span><span></span><span></span></button></div></nav><nav className={`nav__mobile ${open?'open':''}`} aria-label="Mobile navigation"><button className="nav__mobile-close" onClick={()=>setOpen(false)}>✕</button>{links.map(([to,label])=><Link key={to} to={to} onClick={()=>setOpen(false)}>{label}</Link>)}<Link to="/wishlist" onClick={()=>setOpen(false)}>♡ Wishlist ({count})</Link><Link to={user?'/account':'/login'} onClick={()=>setOpen(false)}>{user?'My Account':'Login / Sign Up'}</Link><Link to="/cart" onClick={()=>setOpen(false)}>Shopping Bag ({itemCount})</Link><Link to="/track-order" onClick={()=>setOpen(false)}>Track Order</Link></nav></>}
+import { Link, NavLink } from 'react-router-dom';
+import { useState } from 'react';
+import { useCart } from '../context/CartContext';
+import { useWishlist } from '../context/WishlistContext';
+import { useAuth } from '../context/AuthContext';
+
+export default function Nav() {
+  const { itemCount } = useCart();
+  const { count } = useWishlist();
+  const { user } = useAuth();
+  const [open, setOpen] = useState(false);
+
+  const links = [
+    ['/', 'Home'],
+    ['/shop', 'Shop'],
+    ['/about', 'Our Story'],
+    ['/contact', 'Contact']
+  ];
+
+  return (
+    <>
+      <nav className="nav">
+        <Link to="/" className="nav__logo">
+          <img src="/assets/images/logo-mark.png" alt="Sugar & Stones Jewelry" className="nav__logo-img" />
+        </Link>
+
+        <ul className="nav__links">
+          {links.map(([to, label]) => (
+            <li key={to}>
+              <NavLink to={to} className={({ isActive }) => isActive ? 'active' : ''}>
+                {label}
+              </NavLink>
+            </li>
+          ))}
+        </ul>
+
+        <div className="nav__actions">
+          <Link to="/wishlist" className="nav__icon-link" aria-label="Wishlist">
+            ♡
+            <span className={`nav__mini-count ${count ? 'visible' : ''}`}>{count}</span>
+          </Link>
+
+          <Link to={user ? '/account' : '/login'} className="nav__icon-link" aria-label="Account">
+            ♙
+          </Link>
+
+          <Link to="/cart" className="nav__bag-btn">
+            Bag <span className={`nav__bag-count ${itemCount ? 'visible' : ''}`}>{itemCount}</span>
+          </Link>
+
+          <button className="nav__hamburger" aria-label="Open menu" onClick={() => setOpen(true)}>
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+      </nav>
+
+      <nav className={`nav__mobile ${open ? 'open' : ''}`} aria-label="Mobile navigation">
+        <button className="nav__mobile-close" onClick={() => setOpen(false)}>✕</button>
+
+        {links.map(([to, label]) => (
+          <Link key={to} to={to} onClick={() => setOpen(false)}>
+            {label}
+          </Link>
+        ))}
+
+        <Link to="/wishlist" onClick={() => setOpen(false)}>♡ Wishlist ({count})</Link>
+        <Link to={user ? '/account' : '/login'} onClick={() => setOpen(false)}>
+          {user ? 'My Account' : 'Login / Sign Up'}
+        </Link>
+        <Link to="/cart" onClick={() => setOpen(false)}>Shopping Bag ({itemCount})</Link>
+        <Link to="/track-order" onClick={() => setOpen(false)}>Track Order</Link>
+      </nav>
+    </>
+  );
+}
